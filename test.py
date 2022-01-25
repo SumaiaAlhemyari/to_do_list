@@ -1,6 +1,8 @@
 #from django.http import response
 from app import app
 
+
+#Hi there I am running a test
 def test1():
     """
     This function tests that that flask application has a correct response code
